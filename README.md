@@ -11,7 +11,7 @@ I enjoy creating impactful products end-to-end — from design systems and authe
 
 ## 🔥 About Me  
 - 💼 **Full Stack Developer**  
-- 🏢 **Ex Frontend Intern @ PocketPills** — fixed 50+ production issues and helped maintain services for **52k+ users**  
+- 🏢 **Ex Software Engineer Intern @ PocketPills** — fixed 50+ production issues and helped maintain services for **52k+ users**  
 - 🧑‍💻 **C4GT Open Source Developer @ Bahmni** — contributed a document upload module used in hospitals worldwide  
 - ✍️ Published **10+ technical articles** on Hashnode  
 - 🎓 B.Tech in ECE, **IIIT Kota**
