@@ -1,7 +1,7 @@
 <h3 align="center">A Curious Developer from India</h3>
 
 # 👋 Hi, I'm Alpit Kumar  
-### Looking for Sotware Engineer Role | Full Stack Developer | Softwae Engineer Intern PocketPills | C4GT-23 Software Engineer Intern | Open Source Developer  
+### Looking for Sotware Engineer Role | Full Stack Developer | Softwae Engineer Intern PocketPills | C4GT-23 Software Engineer Intern | Open Source Developer | 500+ DSA Problems Solved
 ### B.Tech @ IIIT Kota
 
 🚀 I’m a Full Stack Developer passionate about building scalable web applications, automation workflows, and high-performance systems.  
